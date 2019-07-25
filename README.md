@@ -3,6 +3,7 @@ Phase 2 is due August 4th at 11:59pm.
 Create a branch in your project labelled "Part1". This will allow me to easily find your unaltered project 1 code. Then make all your Part 2 changes to branch "main." (I.E. Branch "Part1" is a snapshot of your repository from when you turned in your project for Part 1.) 
 
 Coding:
+
 Functions should filter out duplicate records.
 
 Use Swing (note that Swing and SWT are different things) where possible. This is the designated GUI library. Examples of how your program should look are included as PNGs. 
